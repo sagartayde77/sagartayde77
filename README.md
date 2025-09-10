@@ -3,9 +3,30 @@
   <img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" alt="banner" width="100%" height="250px">
 </p>
 
-<!-- Typing Animation -->
+<!-- Gradient SVG Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Sagar+Tayde;Cloud+%26+DevOps+Enthusiast;AWS+☁️+|+Docker+🐳+|+Terraform+⚡;Learning+%7C+Building+%7C+Automating" alt="Typing SVG" />
+  <svg viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <!-- Gradient -->
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#FC466B; stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#3F5EFB; stop-opacity:1" />
+      </linearGradient>
+      <!-- Font import (Monoton) -->
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+        .title { 
+          font-family: 'Monoton', cursive; 
+          font-size: 36px; 
+          font-weight: 400;
+          letter-spacing: 3px;
+        }
+      </style>
+    </defs>
+    <text x="50%" y="50%" class="title" fill="url(#grad)" text-anchor="middle" dominant-baseline="middle">
+      AWS ☁️ | Docker 🐳 | Terraform ⚡
+    </text>
+  </svg>
 </p>
 
 ---
@@ -38,7 +59,7 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sagartayde777" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
   <!-- Email -->
   <a href="mailto:s.b.tayde777@gmail.com" target="_blank">
@@ -47,8 +68,9 @@
 </p>
 
 ---
+
 ## 📈 Activity Graph  
-[![Sagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SagarTayde&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagar&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -69,4 +91,3 @@
 ---
 
 ✨ Thanks for visiting! Let’s connect and **build something amazing** 🚀  
-
