@@ -12,7 +12,6 @@
 💻 Passionate about **Cloud & DevOps**  
 ☁️ Exploring **AWS, Docker, Kubernetes, Terraform**  
 🔧 Automating workflows & deployments  
-🚀 Goal: Become **dangerously good** at Cloud & DevOps  
 ⚡ Motto: *“Code. Automate. Repeat.”*  
 
 ---
