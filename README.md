@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&fontWeight=bold&duration=3000&pause=1000&color=00ffff&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Sagar+Tayde;Cloud+%26+DevOps+Enthusiast;Learning+%7C+Building+%7C+Automating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&fontWeight=bold&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Sagar+Tayde;Cloud+%26+DevOps+Enthusiast;Learning+%7C+Building+%7C+Automating;I+break+things+just+to+fix+them+better+🚀&color=00ffff&color=00ffff&color=00ffff&color=FFD700" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 💻 Passionate about **Cloud & DevOps**  
 ☁️ Exploring **AWS, Docker, Kubernetes, Terraform**  
 🔧 Automating workflows & deployments  
-⚡ Motto: *“Code. Automate. Repeat.”*  
+⚡ Fun fact: I break things just to fix them better 🚀
 
 ---
 
