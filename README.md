@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" alt="banner" width="100%" height="250px"> 
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="banner" width="100%" height="400px"> 
 
 <!-- Typing Animation -->
 <p align="center">
