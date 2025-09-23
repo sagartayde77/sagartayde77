@@ -7,6 +7,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" />
+</p>
 
 ## 🌐 About Me  
 💻 Passionate about **Cloud & DevOps**  
