@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarTayde&show_icons=true&theme=chartreuse-dark" height="165" />
+  <img src="https://gh-readme-stats.vercel.app/api?username=SagarTayde&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="300">
+  <img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="300">
 </p>
 
 ---
