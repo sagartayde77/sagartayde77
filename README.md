@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="banner" width="100%" height="400px"> 
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="banner" width="100%" height="400px">
 
 <!-- Typing Animation -->
 <p align="center">
@@ -7,6 +7,7 @@
 </p>
 
 ---
+
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" />
 </p>
@@ -51,6 +52,3 @@
 <p align="center">
   <img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="300">
 </p>
-
----
-
