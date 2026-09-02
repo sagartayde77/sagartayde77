@@ -27,10 +27,14 @@
 
 ---
 
-## 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://gh-readme-stats.vercel.app/api?username=SagarTayde&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" />
-</p>
+## 📊 GitHub Analytics
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SagarTayde&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="170" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarTayde&layout=compact&theme=chartreuse-dark&hide_border=true" height="170" /></td>
+  </tr>
+</table>
+
 
 ---
 
